@@ -17,16 +17,19 @@
         android:text="Click to view Notification" />
 
     <Button
+        android:id="@+id/btnBasic"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/basic"/>
 
     <Button
+        android:id="@+id/btnBigPicture"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/bigPicture"/>
 
     <Button
+        android:id="@+id/btnInbox"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/inbox"/>
